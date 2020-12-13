@@ -1,0 +1,7 @@
+F:\ITI\C#\4\Lab1Day4\Lab1Day4\bin\Debug\Lab1Day4.exe.config
+F:\ITI\C#\4\Lab1Day4\Lab1Day4\bin\Debug\Lab1Day4.exe
+F:\ITI\C#\4\Lab1Day4\Lab1Day4\bin\Debug\Lab1Day4.pdb
+F:\ITI\C#\4\Lab1Day4\Lab1Day4\obj\Debug\Lab1Day4.csprojAssemblyReference.cache
+F:\ITI\C#\4\Lab1Day4\Lab1Day4\obj\Debug\Lab1Day4.csproj.CoreCompileInputs.cache
+F:\ITI\C#\4\Lab1Day4\Lab1Day4\obj\Debug\Lab1Day4.exe
+F:\ITI\C#\4\Lab1Day4\Lab1Day4\obj\Debug\Lab1Day4.pdb
